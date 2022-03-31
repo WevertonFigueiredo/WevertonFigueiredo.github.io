@@ -4,18 +4,16 @@
 }
 
 body{
-    background-color:rgb(153, 95, 207);
+    background-color:rgb(255, 255, 255);
 
 }
 
 main{
-    background-color:rgba(41, 74, 221, 0.596);
+    background-color:rgba(39, 206, 178, 0.596);
     width: 500px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.459)
 }
-a:hover{
-    text-decoration: underline;
-    color: brown;
+
 }
